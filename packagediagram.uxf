@@ -54,7 +54,7 @@ this-&gt;folder(application)
 		fsProperties
 		fsStorage
 			fsStClasses
-			fsStObjects
+			fsStEvents
 		fsObjects
 		fsStCache	
 	regex
